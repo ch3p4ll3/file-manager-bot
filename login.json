@@ -1,0 +1,12 @@
+{
+  "bot": {
+    "token": "YOUR TG TOKEN",
+    "id": [ID1, ID2],
+    "channel_id": CHANNEL_ID
+  },
+
+  "userbot": {
+    "api_id": API-ID,
+    "api_hash": "API-HASH"
+  }
+}
